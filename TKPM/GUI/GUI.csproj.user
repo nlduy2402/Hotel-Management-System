@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmBanDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmADMIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBanSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmChiTietHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDatPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLETAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPhieuDatPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLLoaiPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQLTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmThemDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmThemKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmThemLoaiPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmThemNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmThemPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmThemSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdateDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdateKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdateLoaiPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdateNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdatePhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdateSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdateTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmXemDSKH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
